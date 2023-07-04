@@ -1,7 +1,7 @@
-#!/usr/bin/python3
+
+cked_class: class LockedClass
 """
-    101-locked_class: class LockedClass
-"""
+
 
 class LockedClass:
     """
