@@ -1,13 +1,12 @@
 #!/usr/bin/python3
-"""
-    0-lookup: lookup()
-"""
+'''module for task 1'''
 
 
-def lookup(obj):
-    """
-        Returns the list of available attributes and methods.
-        Args:
-            obj (object): object.
-    """
-    return (dir(obj))
+class MyList(list):
+    """class utilizing list class"""
+
+    def print_sorted(self):
+        """print sorted list"""
+        res = list.copy(self)
+        list.sort(res)
+        print(res)
