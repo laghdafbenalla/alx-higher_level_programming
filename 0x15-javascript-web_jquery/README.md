@@ -71,8 +71,3 @@ What you should learn from this project:
 
 ### [13. And press ENTER](./103-script.js)
 * Write a Javascript script that fetches and prints how to say “Hello” depending of the language
-
----
-
-## Author
-* **David Kwan** - [dwkwan](https://github.com/dwkwan)
